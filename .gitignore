@@ -1,0 +1,14 @@
+2_docker_sql/ny_taxi_postgres_data/
+2_docker_sql/file
+2_docker_sql/script
+2_docker_sql/.ipynb_checkpoints
+2_docker_sql/yellow_tripdata_2021-01.parquet
+2_docker_sql/yellow_tripdata_2021-01.csv.gz
+2_docker_sql/yellow_tripdata_2021-01.csv
+2_docker_sql/output.csv.gz
+2_docker_sql/green_tripdata_2019-09.csv.gz
+2_docker_sql/2_docker_sql
+terra_demo/.terraform/
+terra_demo/.terraform.lock.hcl
+terra_demo/keys/
+terra_demo/terraform.tfstate.backup

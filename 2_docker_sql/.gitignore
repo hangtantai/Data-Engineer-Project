@@ -1,9 +1,0 @@
-ny_taxi_postgres_data/
-file
-script
-.ipynb_checkpoints
-yellow_tripdata_2021-01.parquet
-yellow_tripdata_2021-01.csv.gz
-yellow_tripdata_2021-01.csv
-output.csv.gz
-green_tripdata_2019-09.csv.gz
